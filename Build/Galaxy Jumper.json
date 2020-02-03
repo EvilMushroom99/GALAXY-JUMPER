@@ -1,0 +1,13 @@
+{
+"companyName": "EvilMushroom",
+"productName": "Galaxy Jumper",
+"dataUrl": "Galaxy Jumper.data.unityweb",
+"wasmCodeUrl": "Galaxy Jumper.wasm.code.unityweb",
+"wasmFrameworkUrl": "Galaxy Jumper.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
